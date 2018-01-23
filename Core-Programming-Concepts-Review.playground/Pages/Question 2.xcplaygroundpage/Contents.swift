@@ -18,7 +18,17 @@
  
  */
 // Answer question 2 below
+var commmits = 2
+var forks = 6
+let yearCreated = 2018
+let monthCreated = 1...12
+let dayCreated = 1...31
 
+print("commits changes all the time")
+print("amount of forks depends of amount of people, hence unlimited")
+print("year created is a constant, the repository date created cannot be changed")
+print("same as year, dates are constant from january to december")
+print("same as years and months, days range from 1st to 31st")
 /*:
  ## Now share your understanding
  
